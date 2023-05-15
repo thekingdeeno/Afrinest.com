@@ -1,0 +1,156 @@
+h1{
+    font-size: 3rem;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    padding-bottom: 20px;
+}
+
+nav{
+    padding-bottom: 50px;
+}
+
+.colored-section{
+    background-color: #d80c50;
+}
+
+#title{
+    background-color: rgb(177, 47, 43);
+    color: white;
+    height: 650px;
+    overflow: hidden;
+}
+
+.navbar{
+    padding-bottom: 4.5rem;
+}
+
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 18px;
+  }
+.nav-link {
+    font-size: 1.2rem;
+    font-weight: bold;
+    font-family: "poppins";
+  }
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+/* Title */   
+.woman-img{
+    height: 380px;
+    padding-left: 100px;
+}
+
+.rotate-25 {
+    transform: rotate(25deg);
+  }
+
+
+    /* features */ 
+
+#features{
+    padding: 7% 15%;
+    text-align: center;
+    line-height: 1.5;
+}
+
+#features h3{
+    font-weight: 700;
+}
+
+.feature-box{
+    padding: 5%;
+}
+
+    /* testimonials */
+
+#carouselExampleAutoplaying{
+    padding: 1.5cm 0cm 0cm 0cm;
+}
+
+#testimonials {
+    text-align: center;
+}
+
+.testimonial-img {
+    border-radius: 100%;
+    width: 10%;
+    margin: 20px;
+}
+
+.carousel-item{
+    text-align: center;
+    height: 15rem;
+}
+
+.carousel-item h2{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.carousel-item em{
+    color: white;
+}
+    /* Press */
+
+#press{
+    text-align: center;
+    padding: 2cm 0cm 2cm 0cm;
+}
+
+#press img{
+    width: 230px;
+    padding: 10px 20px;
+}
+
+/* Pricing */
+
+#pricing{
+    text-align: center;
+    padding: 10% 10%;
+}
+
+#pricing h3{
+    font-weight: 700;
+}
+
+#pricing h2{
+    font-weight: 900;
+}
+.price-card{
+    padding: 3% 2%;
+}
+
+    /* cta */
+
+#cta{
+    padding: 10% 15%;
+    text-align: center;
+}
+
+#cta h3{
+    font-size: 1.5cm;
+    font-weight: 800;
+}
+
+#cta button{
+   margin: 50px 10px 0px 10px; 
+}
+
+    /* footer */
+
+#footer{
+    text-align: center;
+}
+
+#link{
+    padding: 50px 0px 50px 0px;
+}
